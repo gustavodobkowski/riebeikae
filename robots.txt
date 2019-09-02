@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://iehaiseemu.abhimat.net/sitemap.xml
